@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/THAnimalVaInterfaceEdible/THAnimalVaInterfaceEdible.iml" filepath="$PROJECT_DIR$/THAnimalVaInterfaceEdible/THAnimalVaInterfaceEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/THTrienKhaiInterFace'Comparable'/THTrienKhaiInterFace'Comparable'.iml" filepath="$PROJECT_DIR$/THTrienKhaiInterFace'Comparable'/THTrienKhaiInterFace'Comparable'.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THTrienKhaiInterface'Comparator'DeSoSanhCachLopHinhHoc/THTrienKhaiInterface'Comparator'DeSoSanhCachLopHinhHoc.iml" filepath="$PROJECT_DIR$/THTrienKhaiInterface'Comparator'DeSoSanhCachLopHinhHoc/THTrienKhaiInterface'Comparator'DeSoSanhCachLopHinhHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2Week2Day2.iml" filepath="$PROJECT_DIR$/module2Week2Day2.iml" />
     </modules>
   </component>
